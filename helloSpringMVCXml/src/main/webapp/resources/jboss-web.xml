@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>/helloSpringMVCJboss</context-root>
+</jboss-web>
